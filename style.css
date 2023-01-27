@@ -1,0 +1,22 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+
+
+.color{
+    font-size: 50px;
+}
+
+.btn{
+
+    font-size: 25px;
+    color: black;
+    background:aqua;
+    border: 2px solid salmon;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
